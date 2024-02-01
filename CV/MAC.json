@@ -1,0 +1,521 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Adrian",
+      "surnames": "Figueroa Herranz",
+      "title": "Technical Support Engineer at Manfred",
+      "description": "Technical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at Manfred",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/e545ce6f-6f85-4e27-99db-2892319d80cd_linkedin-photo-52743.linkedin-photo-52743",
+        "alt": "24/01/31/e545ce6f-6f85-4e27-99db-2892319d80cd_linkedin-photo-52743.linkedin-photo-52743"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "interestingFacts": [
+      {
+        "topic": "Soy un crack",
+        "fact": "Soy un crack"
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "LQTD",
+        "type": "other",
+        "authors": [
+          {
+            "name": "sdfgsdfg",
+            "surnames": "sdfgsdfg",
+            "title": "Author"
+          }
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/adrian-figueroa-herranz-957a50aa"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/getmanfred"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/getmanfred"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/1234567/helena_b"
+      },
+      {
+        "type": "other",
+        "URL": "http://www.getmanfred.com"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/0b1a3351-93d4-4ffb-b5c3-981f6a1c745b_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/0b1a3351-93d4-4ffb-b5c3-981f6a1c745b_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "Technical Support Engineer",
+            "startDate": "2022-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Beiersdorf",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/b1c69800-e006-4b6f-be75-bf932beb513c_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/b1c69800-e006-4b6f-be75-bf932beb513c_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "IT Specialist",
+            "startDate": "2020-06-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "Resolution of hardware and software incidents, on desktop computers, laptops and workstations, in the corporate image of Windows 10. On-site, remote and telephone assistance. Incident and request management with HP Service Manager. Inventory management with HP Asset Manager. Escalation to other IT groups for problem resolution. Installation of corporate operating system. Research of technical solutions. Documentation of processes, preparation of manuals and step-by-step guides. Migration of computers and mobile devices. Software deployment remotely by SCCM. Remote control with Configuration Manager Remote Control. Verification of access points and switches. Assistance to the headquartersr for installation of new switches. Installation, configuration and backup of digital certificates. Assistance to videoconference rooms. IT training for new hires and on new installations and software. User management, registrations, deactivations, modifications (600 users locally). Verification of compliance with the guidelines and procedures set by the headquarters. Configuration of users in Skype Server. Management with suppliers of IT material. Installation, configuration and support in the corporate system of mobile devices (iPhone / iPad, Samsung). Installation and configuration of the corporative image in different equipment. Management of permissions for users and groups. Management, administration and configuration at the first level of the different servers of the company. Management and administration of the different networks of the company. Management of projects in the company (migration of servers, installation of new systems...)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ideal Education Group",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/571b1f77-5ef9-45b7-9f93-f25add08ad80_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/571b1f77-5ef9-45b7-9f93-f25add08ad80_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "System Administrator",
+            "startDate": "2019-10-01",
+            "finishDate": "2020-03-31",
+            "challenges": [
+              {
+                "description": "Software and hardware assistance, onsite and remotely: RealVNC, UltraVNC, AnyDesk and TeamViewer. Resolution of hardware and software incidents, N1 and N2.\nInstallation, configuration and commissioning of hardware and software. Participation in equipment renovation projects.\n\nActive Directory management: users, groups, rights.\nWindows XP, 7, 10, 2003, 2008R2, 2012; Linux (Debian, Ubuntu, Fedora) operating systems. Citrix XenApp, XenDesktop, VMware, vCenter and vSphere virtualization, and TSPlus. Web hosting, IIS, Apache.\n\nNetwork and server monitoring with Nagios. Administration, configuration and installation of wired and wireless WiFi network. Configuration and monitoring of networks and WiFi antennas with UniFi unified cloud controller. Network configuration with MikroTik: DHCP, DNS, FTP, VPN, switching, networking, firewalls, LAN, WAN, TCPIP, VoIP, WIFI, Torch. Deployment and installation of WiFi in different locations of the company nationwide. Socket patch, router and switch configuration.\n\nBackups of VMware virtual machines with Veeam Backup.\nManagement and backup of Qlik cubes with Cobian Backup.\nBlobs management and backups in Azure Explorer Backup.\nBackup programming in Cobian Backup, Windows, and Linux.\n\nYealink and Alcatel Lucent IP Telephones; Xiaomi, Samsung, Lenovo, LG and Alcatel Lucent OpenTouch softphone management.\n\nZimbra, Exchange MSO365 and Arsys mail servers management.\n\nPrinter servers and services management: HP, Konica Minolta, Kyocera.\n\nInstallation, management, and maintenance of Panda Adaptive Defense 360 ​​antivirus, Microsoft Security Essentials. Digital certificates management.\n\nManagement and maintenance of the GLPI ticketing system, to manage and administer the inventory, incidents and requests. Documentation of processes and tasks.\n\nManagement with suppliers, guarantees, maintenance of software and hardware. Dealing with suppliers, opening incidents and controlling invoices. Purchase, management and reception of hardware material."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ACTIVEX INFORMATICOS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/fc4af6e6-c758-4aa3-a860-a1cd22158313_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/fc4af6e6-c758-4aa3-a860-a1cd22158313_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "Technical Support N1-N2",
+            "startDate": "2019-04-01",
+            "finishDate": "2019-07-31",
+            "challenges": [
+              {
+                "description": "Technical Support N1-N2 in Técnicas Reunidas:\n\nResolving and troubleshooting desktop and laptop hardware and software issues in Windows 7 and 10. Managing incidents and requests with EasyVista. Escalating to other IT groups for problem resolution. Corporate OS installation with WinPE and support Process documentation, manual elaboration and step-by-step guide. Support issues documentation. Migrating Windows 7 to Windows 10. Remote deployment of software by SCCM. Remote technical assistance by Configuration Manager Remote Control.\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Daidalos Techne, S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/ebd80a73-fbf0-4b2c-a4aa-fa37e658b67d_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/ebd80a73-fbf0-4b2c-a4aa-fa37e658b67d_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "Technical Support Specialist",
+            "startDate": "2018-11-01",
+            "finishDate": "2019-04-30",
+            "challenges": [
+              {
+                "description": "Technical Support Specialist in Alstom:\n\nResolving and troubleshooting desktop, laptop and workstations hardware DELL and HP and software issues in Windows 7 and 10. Managing incidents and requirements with Service Now. Escalating to other IT groups for problem resolution. Corporate OS installation with WinPE and support process documentation, manual elaboration and step-by-step guide. Researching technical solutions. Participating in PC replacement and refresh, migrating from Windows 7 to Windows 10. Magnetic tape data storage replacement in server as requested. Access Point and switch verification. Stock management. Smartcard creation with Magicard Rio Pro. Revokation of certificates, unlocking and registering with IDNOMIC."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PrimeIT España",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/4ecd061a-4aad-43b0-ab00-fe5f8fd9cc36_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/4ecd061a-4aad-43b0-ab00-fe5f8fd9cc36_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "N1 Senior Technical Support",
+            "startDate": "2018-06-01",
+            "finishDate": "2018-10-31",
+            "challenges": [
+              {
+                "description": "Technical support to Call Center departments in Leroy Merlin:\n\nResolving and troubleshooting software incidents and requirements on site and remotely in Windows 7 and 10 environment. User management with Windows AD and corporative webtools: creating, deleting, unlocking and resetting accounts, adding to domain groups. Gmail accounts creation. Hosts and services status checking with Nagios XI. VMware Horizon management with VMware Horizon Administrator, Helpdesk and App Volumes to implement and use VDI in HP Thinclient T610 and T620 models. Windows Dynamics CRM and USD troubleshooting, support and basic management. Basic configuration in Yealink SIP-T23G. Incidents management and ticket escalating with BMC FootPrints Service Desk web. Support issues and process documentation, manual elaboration and step-by-step guide. Researching technical solutions."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/884fae74-ccf2-4bb7-b528-677cdc47d657_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/884fae74-ccf2-4bb7-b528-677cdc47d657_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "IT Technical Analyst - Repsol CSG Project",
+            "startDate": "2017-03-01",
+            "finishDate": "2018-06-30",
+            "challenges": [
+              {
+                "description": "Technical support to Geoscience departments in Repsol:\n\nResolving and troubleshooting desktop and laptop workstations, hardware and software incidents and requirements on site and remotely. Windows 7 and 10, Linux RedHat OS and software installation and support. Incidents management and ticket escalating with BMC Remedy ITSM web and ServiceNow. Inventory management of laptop and desktop workstations and users with BMC Remedy ITSM CMDB. Process documentation, manual elaboration and step by step guide. Researching technical solutions. Support issues documentation. Managing, planning and machine deployment for seminars and meetings."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/4662562f-4c7f-470a-b3fa-9131311b7f95_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/4662562f-4c7f-470a-b3fa-9131311b7f95_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "International Offices L2 Technical Support and Asset management - Santander Bank, Produban Project",
+            "startDate": "2015-11-01",
+            "finishDate": "2017-02-28",
+            "challenges": [
+              {
+                "description": "Users, computers and devices inventory control and management. Operating system installation and configuration with HP Integrated Lights Out and Windows PE, hardware firmware and driver updating and phisycal maintenance and hardware and software troubleshooting for desktop computers (HP and Dell), workstations (HP Z230), laptops (Samsung, Dell, HP, Lenovo and Toshiba), HP Thin Client (gt7725, t610 and t620) and HP ProLiant BL460c Server Blade (G1, G6, Gen8 and Gen9). HPE BladeSystem c7000 enclosures installation and configuration. Incidents management and ticket escalating with BMC Remedy web. Process documentation, manual elaboration and step by step guide. Software distribution with SCCM 2008 and 2012. Users and computers management with Windows Active Directory 6.1 Windows. Incident resolution and support on site and remotely with HP Remote Graphics Software, HPE Onboard Administrator and HP Integrated Lights Out. Managing, tracking and supporting International Offices incidents, requests and questions via telephone, email, Remedy tickets and instant messaging Lync."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/7194bc7f-1fdb-44c2-9d57-29920aaea206_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/7194bc7f-1fdb-44c2-9d57-29920aaea206_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "Infra Tech Support Practitioner - Accenture",
+            "startDate": "2015-04-01",
+            "finishDate": "2015-10-31",
+            "challenges": [
+              {
+                "description": "Resolving and troubleshooting PC's, laptops and mobile devices, hardware and software incidents on desk side and remotely. User management like reset and unlocking user accounts with corporative programs and tools. Incidents management and ticket escalating with Remedy ITSM. PC's, laptops and mobile devices mobile phones, UMTS, IP phones inventory management with FlexNet Manager. Escalating to other IT groups for problem resolution. Researching technical solutions. Documentation of support issues. OS and software installation and support. User permission management. PC's, laptops and mobile devices format, reset to default configuration and later configuration. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/fd000787-a515-4dec-a578-ebdd5e372407_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/fd000787-a515-4dec-a578-ebdd5e372407_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "Junior Oracle DBA - Airbus Project",
+            "startDate": "2015-02-01",
+            "finishDate": "2015-03-31",
+            "challenges": [
+              {
+                "description": "Providing ongoing technical support and maintenance of production and development systems and software products (both remote and onsite) and for configured services running on various platforms (operating within a defined operating model and processes). Providing hardware/software support and implement technology at the operating system-level across all server and network areas, and for particular software solutions/vendors/brands. L1 and L2/ basic and intermediate level troubleshooting. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/c8d2b3e6-1952-493c-899d-e28078412f88_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/c8d2b3e6-1952-493c-899d-e28078412f88_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "Customer Service Associate - Orange EVOCC Project",
+            "startDate": "2013-08-01",
+            "finishDate": "2015-01-31",
+            "challenges": [
+              {
+                "description": "Management, configuration and testing migrations about Call Center platforms. Management, configuration and scaling requests and incidents with BMC Remedy User. Configuration of scripts and elements in Cisco ICM. Querying configured elements of ACDs with Avaya Site Administration and Avaya CMS Supervisor. Control, management, tracing, team coordination and effort and cost calculation to implement client's requests. Resolving call routing incidents."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Accenture Outsourcing Services",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/31/4fd7cf22-6f32-44ac-97d5-e7466b4cefa5_linkedin-photo-52743.linkedin-photo-52743",
+            "alt": "24/01/31/4fd7cf22-6f32-44ac-97d5-e7466b4cefa5_linkedin-photo-52743.linkedin-photo-52743"
+          }
+        },
+        "roles": [
+          {
+            "name": "Trainee Local Technical Support - Accenture",
+            "startDate": "2013-04-01",
+            "finishDate": "2013-06-30",
+            "challenges": [
+              {
+                "description": "Resolving and troubleshooting PC's, laptops and mobile devices, hardware and software incidents on desk side and remotely. User management like reset and unlocking user accounts with corporative programs and tools. Incidents management and ticket escalating with Remedy ITSM. PC's, laptops and mobile devices mobile phones, UMTS, IP phones inventory management with FlexNet Manager. Escalating to other IT groups for problem resolution. Researching technical solutions. Documentation of support issues. OS and software installation and support. User permission management. PC's, laptops and mobile devices format, reset to default configuration and later configuration."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Inventao",
+          "description": "Inventao Inventao Inventao"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "1956-07-01",
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": ".Net Core",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-06-01"
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "HITO",
+          "description": "HITO"
+        },
+        "type": "achievement",
+        "publishingDate": "1999-02-01",
+        "relatedCompetences": [
+          {
+            "name": ".NET MAUI",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "JP",
+        "fullName": "Japonés",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle APEX",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "High School, Science",
+        "startDate": "2006-01-01",
+        "institution": {
+          "name": "I.E.S Ángel Ysern"
+        },
+        "finishDate": "2009-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Technical School, Information Technology",
+        "startDate": "2011-01-01",
+        "institution": {
+          "name": "I.E.S. Antonio de Nebrija"
+        },
+        "finishDate": "2013-01-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/adrian-figueroa-herranz-957a50aa",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/1234567/helena_b",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/getmanfred",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/getmanfred",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "adrimajisimo@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Apache",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "PHPMyAdmin",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": ".NET MAUI",
+          "type": "technology"
+        },
+        {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
+          "name": "Abap",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Customer Service & Support",
+        "Support Engineer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JAVA",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "muaaaaaaaaaaajajajajajajaj",
+    "goodPractices": "Technical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at ManfredTechnical Support Engineer at Manfred",
+    "projects": [
+      {
+        "name": "Inventao"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "LQTD"
+      }
+    ]
+  }
+}
